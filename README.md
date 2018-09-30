@@ -24,6 +24,9 @@ As you can see the bot isnt fully complete.
 I have to make it so that it will automatically update
 the items. I will also add other features to it. :)
 
+**View the bot your self-**
+https://discord.gg/GWTBfEr
+
 **For any questions contact me-**
 
 **Discord**- plugSZN#2405
